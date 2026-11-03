@@ -1,0 +1,14 @@
+{
+  "projects": [
+    { "id": 1, "title": "Website accessibility refresh", "owner": "Priya", "status": "in-progress", "channel": "website", "dueDate": "2026-10-15", "notes": "Audit colour contrast and add alt text to the top 20 pages.", "createdAt": "2026-09-01T10:00:00.000Z", "updatedAt": "2026-09-01T10:00:00.000Z" },
+    { "id": 2, "title": "Fall newsletter redesign", "owner": "Marcus", "status": "review", "channel": "newsletter", "dueDate": "2026-11-20", "notes": "New template, shorter intro, one clear call to action.", "createdAt": "2026-09-05T10:00:00.000Z", "updatedAt": "2026-09-05T10:00:00.000Z" },
+    { "id": 3, "title": "Spring open house campaign", "owner": "Dana", "status": "planning", "channel": "event", "dueDate": "2027-02-01", "notes": "Social countdown, email invites, landing page.", "createdAt": "2026-09-10T10:00:00.000Z", "updatedAt": "2026-09-10T10:00:00.000Z" },
+    { "id": 4, "title": "Social media content calendar", "owner": "Priya", "status": "launched", "channel": "social", "dueDate": "2026-09-30", "notes": "Q4 posting schedule across all channels.", "createdAt": "2026-08-20T10:00:00.000Z", "updatedAt": "2026-09-30T10:00:00.000Z" }
+  ],
+  "posts": [
+    { "id": 1, "title": "Campus services holiday hours", "body": "Our offices will have adjusted hours over the holiday break. Full schedule is on the website.", "channel": "website", "status": "scheduled", "publishDate": "2026-12-01", "createdAt": "2026-10-20T10:00:00.000Z", "updatedAt": "2026-10-20T10:00:00.000Z" },
+    { "id": 2, "title": "Welcome back newsletter", "body": "A short roundup of what's new this term, plus links to upcoming events.", "channel": "newsletter", "status": "published", "publishDate": "2026-09-08", "createdAt": "2026-09-01T10:00:00.000Z", "updatedAt": "2026-09-08T10:00:00.000Z" },
+    { "id": 3, "title": "Open house save the date", "body": "Mark your calendar: our spring open house is coming. Details to follow.", "channel": "social", "status": "draft", "publishDate": "", "createdAt": "2026-10-25T10:00:00.000Z", "updatedAt": "2026-10-25T10:00:00.000Z" }
+  ],
+  "nextId": { "projects": 5, "posts": 4 }
+}
